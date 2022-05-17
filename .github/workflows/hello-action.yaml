@@ -8,7 +8,7 @@ jobs:
     steps:
     - name: Hello action step
       id: hello
-      uses: larrycai/hello-action@master
+      uses: larrycai/hello-action@0.0.1
       with:
         who-to-greet: 'Larry Cai'
     # Use the output from the `hello` step
