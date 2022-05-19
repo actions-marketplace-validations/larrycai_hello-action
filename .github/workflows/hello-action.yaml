@@ -16,4 +16,6 @@ jobs:
       run: |
         echo "The time was ${{ steps.hello.outputs.time }}"
         id
+        env
+        pwd
         cat /etc/os-release
