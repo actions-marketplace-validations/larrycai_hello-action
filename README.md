@@ -1,4 +1,4 @@
-![ci workflow](https://github.com/larrycai/hello-action/actions/workflows/hello-action.yml/badge.svg)
+![ci workflow](https://github.com/larrycai/hello-action/actions/workflows/hello-action.yaml/badge.svg)
 
 # hello-action
 
